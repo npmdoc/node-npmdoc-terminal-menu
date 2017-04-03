@@ -1,0 +1,19 @@
+<svg height="254" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="254" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">└─┬ terminal-menu@2.1.1 </tspan>
+<tspan x="10" y="42">  ├── charm@0.1.2 </tspan>
+<tspan x="10" y="58">  ├─┬ duplexer2@0.0.2 </tspan>
+<tspan x="10" y="74">  │ └─┬ readable-stream@1.1.14 </tspan>
+<tspan x="10" y="90">  │   ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="106">  │   ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="122">  │   └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="138">  ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="154">  ├─┬ resumer@0.0.0 </tspan>
+<tspan x="10" y="170">  │ └── through@2.3.8 </tspan>
+<tspan x="10" y="186">  ├─┬ through2@0.6.5 </tspan>
+<tspan x="10" y="202">  │ ├── readable-stream@1.0.34 </tspan>
+<tspan x="10" y="218">  │ └── xtend@4.0.1 </tspan>
+<tspan x="10" y="234">  └── visualwidth@0.0.1</tspan>
+</text>
+</svg>
