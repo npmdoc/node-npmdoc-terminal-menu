@@ -1,9 +1,14 @@
-# api documentation for  [terminal-menu (v2.1.1)](https://github.com/substack/terminal-menu)  [![npm package](https://img.shields.io/npm/v/npmdoc-terminal-menu.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-terminal-menu) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-terminal-menu.svg)](https://travis-ci.org/npmdoc/node-npmdoc-terminal-menu)
+# npmdoc-terminal-menu
+
+#### api documentation for  [terminal-menu (v2.1.1)](https://github.com/substack/terminal-menu)  [![npm package](https://img.shields.io/npm/v/npmdoc-terminal-menu.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-terminal-menu) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-terminal-menu.svg)](https://travis-ci.org/npmdoc/node-npmdoc-terminal-menu)
+
 #### retro ansi terminal menus for serious 80s technicolor business
 
-[![NPM](https://nodei.co/npm/terminal-menu.png?downloads=true)](https://www.npmjs.com/package/terminal-menu)
+[![NPM](https://nodei.co/npm/terminal-menu.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/terminal-menu)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-terminal-menu/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-terminal-menu_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-terminal-menu/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-terminal-menu/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-terminal-menu/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-terminal-menu/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-terminal-menu/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-terminal-menu/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "James Halliday",
-        "email": "mail@substack.net",
         "url": "http://substack.net"
     },
     "bugs": {
@@ -52,13 +56,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "substack",
-            "email": "mail@substack.net"
+            "name": "substack"
         }
     ],
     "name": "terminal-menu",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/substack/terminal-menu.git"
@@ -69,16 +71,6 @@
     "version": "2.1.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module terminal-menu](#apidoc.module.terminal-menu)
-
-
-
-# <a name="apidoc.module.terminal-menu"></a>[module terminal-menu](#apidoc.module.terminal-menu)
 
 
 
