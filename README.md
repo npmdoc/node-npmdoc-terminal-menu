@@ -1,6 +1,6 @@
 # npmdoc-terminal-menu
 
-#### api documentation for  [terminal-menu (v2.1.1)](https://github.com/substack/terminal-menu)  [![npm package](https://img.shields.io/npm/v/npmdoc-terminal-menu.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-terminal-menu) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-terminal-menu.svg)](https://travis-ci.org/npmdoc/node-npmdoc-terminal-menu)
+#### basic api documentation for  [terminal-menu (v2.1.1)](https://github.com/substack/terminal-menu)  [![npm package](https://img.shields.io/npm/v/npmdoc-terminal-menu.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-terminal-menu) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-terminal-menu.svg)](https://travis-ci.org/npmdoc/node-npmdoc-terminal-menu)
 
 #### retro ansi terminal menus for serious 80s technicolor business
 
@@ -68,7 +68,8 @@
     "scripts": {
         "test": "tap test/*.js"
     },
-    "version": "2.1.1"
+    "version": "2.1.1",
+    "bin": {}
 }
 ```
 
